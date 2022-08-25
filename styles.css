@@ -273,8 +273,8 @@ hr {
         font-size: 14px;
     }
 
-    .nav-main ul.nav-menu-rigth {
-        margin-right: 40px;
+    .nav-menu-right {
+        padding: 1rem;
     }
 
     .news-cards {
